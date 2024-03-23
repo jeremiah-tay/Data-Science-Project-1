@@ -1,6 +1,6 @@
 # Data-Science-Project-1
 
-**This is a data science project that outlines the process of building and evaluating machine learning models for predicting median house values using Python and scikit-learn.**
+This is a **data science project** that outlines the process of building and evaluating machine learning models for predicting median house values using **Python and scikit-learn.**
 
 1. **Importing Libraries:** Necessary libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn modules are imported to facilitate data handling, visualization, and modeling.
 
